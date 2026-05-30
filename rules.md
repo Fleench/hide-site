@@ -1,4 +1,4 @@
-V=2
+V=3
 # How the App Works
 
 ## Mission Boundary
@@ -98,33 +98,33 @@ Standard card wording is translated to Denver transit terms.
 
 **"Stops Away"** means counting stops or stations in the exact order they appear on the active route being ridden.
 
-## Custom Cards
+# Custom Cards
 Pre-game Saint cards are custom cards for this Denver version of the game.
 
-Card: Mother Cabrini
+## Mother Cabrini
 Details: Seekers must take a picture in front of a church before they can continue seeking.
 Cost: Hiders must take a photo of a church first.
 
-Card: St. Mary Magdalene
+## St. Mary Magdalene
 Details: Seekers must find a Bible verse before hopping on transit.
 Cost: Hiders must find a verse first.
 
-Card: St. Isidore
+## St. Isidore
 Details: Seekers must multiply the two closest address numbers together, then transmit the answer in binary to the hiders.
 Cost: Hiders must roll a power of 2 on the dice.
 
-Card: St. Margaret of Castello
+## St. Margaret of Castello
 Details: Seekers must create a 1-minute song about a subject the hiders give them.
 Cost: Hiders must roll a six.
 
-Card: St. Francis of Assisi
+## St. Francis of Assisi
 Details: GPS failure - Hiders may not use Google Maps for (3 * a roll of both dice by a seeker) minutes.
 Cost: Hiders must be on a transit line.
 
-Card: St. Carlo Acutis
+## St. Carlo Acutis
 Details: Seekers must take a selfie with a duck.
 Cost: Hiders must roll a Fibonacci sequence on the dice up to the maximum dice value.
 
-Card: St. Teresa of Lisieux
+## St. Teresa of Lisieux
 Details: Seekers must obtain a flower before asking a question.
 Cost: Hiders must pray to the saint first.
