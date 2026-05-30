@@ -118,7 +118,7 @@ Details: Seekers must create a 1-minute song about a subject the hiders give the
 Cost: Hiders must roll a six.
 
 ## St. Francis of Assisi
-Details: GPS failure - Hiders may not use Google Maps for (3 * a roll of both dice by a seeker) minutes.
+Details: GPS failure - Seekers may not use Google Maps for (3 * a roll of both dice by a seeker) minutes.
 Cost: Hiders must be on a transit line.
 
 ## St. Carlo Acutis
